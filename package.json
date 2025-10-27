@@ -1,0 +1,22 @@
+{
+  "name": "lasus-vpn-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Errpr: no test specified\" && exit 1",
+    "start": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [
+    "Vpn Project"
+  ],
+  "author": "Inowei",
+  "license": "ISC",
+  "description": "This is a tailwindcss v4 project",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.16",
+    "tailwindcss": "^4.1.16"
+}
+}
+
+
